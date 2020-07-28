@@ -1,12 +1,12 @@
 #vuecms3_nodejsapi
-dtcmsdb4.sql £ºÊÇ mysqlÊı¾İ¿âµÄ½Å±¾
+dtcmsdb4.sql ï¼šæ˜¯ mysqlæ•°æ®åº“çš„è„šæœ¬
 
-#²½Öè
+#æ­¥éª¤
 ```
  npm install
 
- node app.js Æô¶¯express·şÎñÆ÷ £¬Æô¶¯Ö®Ç°ÇëÏÈ°²×°mysqlÊı¾İ·şÎñºÍÀûÓÃdtcmsdb4.sql ½¨Á¢Ò»¸ödtcmsdb4µÄÊı¾İ¿â
-
+ node app.js å¯åŠ¨expressæœåŠ¡å™¨ ï¼Œå¯åŠ¨ä¹‹å‰è¯·å…ˆå®‰è£…mysqlæ•°æ®æœåŠ¡å’Œåˆ©ç”¨dtcmsdb4.sql å»ºç«‹ä¸€ä¸ªdtcmsdb4çš„æ•°æ®åº“
+ app.js ä¸­å¯ä»¥çœ‹åˆ° æ•°æ®åº“çš„é“¾æ¥è´¦å·å’Œå¯†ç 
  
 
 ```
